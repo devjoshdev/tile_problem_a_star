@@ -26,3 +26,9 @@
 - represented by a 2d matrix
 - empty slot marked as 0
 
+## Actions
+- Up
+- Down
+- Left
+- Right
+
