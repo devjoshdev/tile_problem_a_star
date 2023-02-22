@@ -28,7 +28,11 @@
 
 ## Actions
 - Up
+    - is a valid move when the empty slot is in the <strong>top</strong> or <strong>middle</strong> <i>row</i>
 - Down
+    - is a valid move when the empty slot is in the <strong>bottom</strong> or <strong>middle</strong> <i>row</i>
 - Left
+    - is a valid move when the empty slot is in the <strong>left</strong> or <strong>middle</strong> <i>column</i>
 - Right
+    - is a valid move when the empty slot is in the <strong>right</strong> or <strong>middle</strong> <i>column</i>
 
