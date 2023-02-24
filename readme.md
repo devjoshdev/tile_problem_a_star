@@ -8,7 +8,7 @@
 - The board will have 8 tiles marked 1-8 and then an empty tile somewhere on the board
 
 ## Goal
-- To slide the board left, right, up, and down to get the board to be in this state where the numbers appear in ascending order and in row major order
+- To slide the board left, right, up, and down to get the board to be in this state where the numbers appear in ascending row major order
 
 <img src="imgs/goal_state.png" width="350px" height="350px" alt="Winning position in Tile Game"/>
 <br>
